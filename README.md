@@ -35,7 +35,7 @@ A simple Kivy application that tracks and displays the user's location using the
 
 ## Screenshots
 
-![Main Screen](screenshots/main_screen.png)
+![Main Screen](screenshots/'Screenshot from 2024-01-10 23-53-09.png')
 
 ![History Screen](screenshots/history_screen.png)
 
