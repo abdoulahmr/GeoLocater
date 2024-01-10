@@ -1,7 +1,11 @@
 # GeoLocater
 # Location Tracker App with Kivy
 
+
+
 ![App Screenshots](screenshots/Screenshot_from_2024-01-10_23-53-09.png)
+
+
 
 A simple Kivy application that tracks and displays the user's location using the `geocoder` library and Kivy's `MapView`. The app features a main screen with a live map view, real-time latitude and longitude display, and a history screen that logs location information.
 
